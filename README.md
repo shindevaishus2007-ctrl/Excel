@@ -48,11 +48,17 @@ This dataset contains metadata for movies and TV shows available on Netflix. Eac
 ## Charts
 
 📈 Monthly Content Addition Trend.
+
 📊 Titles Added vs Release Year.
+
 📊 Total Titles by Genre(Listed in)
+
 🍿  Movies vs TV show Distribution.
+
 🍩 Rating Distribution(TV-MA, TV-14, PG-13,etc.)
+
 📊 Top 10 content Producing.
+
 📍 Movies vs TV Shows by Country.
 
 ## Interactive Filters
