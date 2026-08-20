@@ -29,9 +29,12 @@ This dataset contains metadata for movies and TV shows available on Netflix. Eac
 ## 🧮Calculated Columns
 
 • Year Added-Extracted from the Date Added Field.
+
 • Month Added-Extracted from the Date Added field to track monthly
   addition trends.
+  
 • Type Category-Categorized as Movie or TV Show for simplified filtering.
+
 • Duration Numerical-Extracted numeric value for the Duration column (e.g., runtime in minutes or number of seasons)
 
 ## 📈Dashboard Features 
