@@ -63,9 +63,14 @@ This dataset contains metadata for movies and TV shows available on Netflix. Eac
 
 ## Interactive Filters
 • Release Year 
-• Month Added 
+
+• Month Added  
+
 • Country
+
 • Content Type(Movie/TV Show)
+
 • Rating
+
 • Genre(Listed In)
 
