@@ -38,11 +38,17 @@ This dataset contains metadata for movies and TV shows available on Netflix. Eac
 
 ## KPI Cards
 • Total Titles 
+
 • Total Movies 
-• Total TV Shows 
+
+• Total TV Shows
+
 • Total Directors
+
 • Total Countries 
+
 • Average Movie Duration(Minutes)
+
 • Most Frequent Rating
  
 ## Charts
