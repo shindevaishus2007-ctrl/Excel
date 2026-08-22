@@ -123,3 +123,22 @@ C Order Date And Time By Platform, Order ID
   
   Overall, the dashboard helps identify high-performing categories, bottleneck trends in order fulfillment speeds, customer sentiment metrics, and platform distribution       splits.
   This makes it easier for operations and category managers to monitor service-level agreements (SLAs) and support data-driven business decisions.
+
+
+## 🛠️ Tools & Technologies
+
+● Microsoft Excel
+
+● Pivot Tables
+
+● Pivot Charts
+
+● Slicers
+
+● Excel Formulas
+
+● Data Cleaning
+
+● Dashboard Design
+
+● Data Analysis
